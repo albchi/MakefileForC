@@ -7,6 +7,9 @@ hima:  a.out
 a.out:	hw.c
 	gcc hw.c    
 
+compile:	hw.c
+	gcc hw.c
+
 test:	a.out
 	a.out Test123
 
