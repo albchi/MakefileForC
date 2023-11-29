@@ -1,4 +1,5 @@
 # a simple Makefile
+# hima, debug, test
 
 hima:  a.out  
 	a.out
